@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-ollama
+streamlit
+pypdf
+langchain-community
+langchain-core
+langchain-chroma
+pymilvus
+langchain-milvus
+tiktoken
